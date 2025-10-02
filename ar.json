@@ -773,5 +773,17 @@
   "Section Department": "\u0642\u0633\u0645 \u0627\u0644\u0642\u0633\u0645",
   "Section Code": "\u0631\u0645\u0632 \u0627\u0644\u0642\u0633\u0645",
   "Changes Group": "\u0645\u062C\u0645\u0648\u0639\u0629 \u0627\u0644\u062A\u063A\u064A\u064A\u0631\u0627\u062A",
-  "Changes Title": "\u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u062A\u063A\u064A\u064A\u0631\u0627\u062A"
+  "Changes Title": "\u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u062A\u063A\u064A\u064A\u0631\u0627\u062A",
+  "Establish New Course - To Program": "Establish New Course - To Program",
+  "Establish a New Program": "Establish a New Program",
+  "Change Courses in Program Study Plan (Not Impacting Program Total Hours and Hours Distribution)": "Change Courses in Program Study Plan (Not Impacting Program Total Hours and Hours Distribution)",
+  "Change Courses in Program Study Plan (Impacting Program Total Hours and Hours Distribution)": "Change Courses in Program Study Plan (Impacting Program Total Hours and Hours Distribution)",
+  "Establish New Course - To Electives": "Establish New Course - To Electives",
+  "Establish New Electives List - To Program": "Establish New Electives List - To Program",
+  "Change Courses in Minor Structure (Impacting Minor Total Hours)": "Change Courses in Minor Structure (Impacting Minor Total Hours)",
+  "Change Courses in Concentration Structure (Not Impacting Concentration Total Hours)": "Change Courses in Concentration Structure (Not Impacting Concentration Total Hours)",
+  "Establish New Course - To Minor": "Establish New Course - To Minor",
+  "Establish new Minor - To Program": "Establish new Minor - To Program",
+  "Establish New Course - To Concentrations": "Establish New Course - To Concentrations",
+  "Establish New Concentration - To Program": "Establish New Concentration - To Program"
 }
